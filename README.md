@@ -13,7 +13,7 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/dashboard.png" alt="Momentum Dashboard Screenshot" width="850"/>
+  <img src="screenshots/dashboard.png" alt="Momentum Dashboard Screenshot" width="850"/>
 </p>
 
 ---
